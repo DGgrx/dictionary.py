@@ -13,7 +13,7 @@ ______  _        _  _    _
 #### This code is inspired by a Udemy python Bootcamp i was enrolled in. This dictionary is also my own implementation with some added features.
 
 ## Required
-- The dicitionary.json file is required to run this code. You can also use some other json file with the data format as :\n {"key":"value"} value is a list. 
+- The dicitionary.json file is required to run this code. You can also use some other json file with the data format as : `{"key":"value"}` , where, `value is a list` . 
 
 ```sh
 python3 dictionary.py
