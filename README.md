@@ -1,19 +1,19 @@
 # Dicitonary
 
 ```
-______  _        _  _    _                                   
-|  _  \(_)      (_)| |  (_)                                  
-| | | | _   ___  _ | |_  _   ___   _ __    __ _  _ __  _   _ 
-| | | || | / __|| || __|| | / _ \ | '_ \  / _` || '__|| | | |
-| |/ / | || (__ | || |_ | || (_) || | | || (_| || |   | |_| |
-|___/  |_| \___||_| \__||_| \___/ |_| |_| \__,_||_|    \__, |
-                                                        __/ |
-                                                       |___/ 
+______  _        _    _                                   
+|  _  \(_)      | |  (_)                                  
+| | | | _   ___ | |_  _   ___   _ __    __ _  _ __  _   _ 
+| | | || | / __|| __|| | / _ \ | '_ \  / _` || '__|| | | |
+| |/ / | || (__ | |_ | || (_) || | | || (_| || |   | |_| |
+|___/  |_| \___| \__||_| \___/ |_| |_| \__,_||_|    \__, |
+                                                     __/ |
+                                                    |___/ 
 ```
-#### This code is inspired by a Udemy python Bootcamp i was enrolled in. This dictionary is also my own implementation with some added features.
+#### This code is inspired by a Udemy python Bootcamp I was enrolled in. This dictionary is my own implementation of the code with some added features.
 
 ## Required
-- The dicitionary.json file is required to run this code. You can also use some other json file with the data format as : `{"key":"value"}` , where, `value is a list` . 
+- The dictionary.json file is required to run this code. You can also use some other json file with the data format as : `{"key":"value"}` , where, `value is a list` . 
 
 ```sh
 python3 dictionary.py
